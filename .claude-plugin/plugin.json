@@ -1,9 +1,21 @@
 {
-  "name": "wp-image-fixer",
-  "displayName": "WP Image Fixer",
-  "version": "1.0.0",
-  "description": "Inspect and optimize WordPress images through WP Image Fixer. Review proposed changes before applying them and restore available originals when needed.",
-  "author": { "name": "WP Image Fixer" },
-  "license": "MIT",
-  "keywords": ["wordpress", "images", "image optimization", "compress images", "resize images", "page speed", "media library"]
+    "name":  "wp-image-fixer",
+    "displayName":  "WP Image Fixer",
+    "version":  "1.0.0",
+    "description":  "Inspect and optimize WordPress images through WP Image Fixer. Review proposed changes before applying them and restore available originals when needed.",
+    "author":  {
+                   "name":  "WP Image Fixer"
+               },
+    "license":  "MIT",
+    "keywords":  [
+                     "wordpress",
+                     "images",
+                     "image optimization",
+                     "compress images",
+                     "resize images",
+                     "page speed",
+                     "media library"
+                 ],
+    "icon":  ".claude-plugin/icon.png",
+    "privacyPolicyUrl":  "https://www.wpimagefixer.com/privacy/"
 }
